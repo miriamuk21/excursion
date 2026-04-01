@@ -1,0 +1,20 @@
+html, body {
+    justify-content: center;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    font-size: 16px;
+    background-color: black;
+}
+
+.header {
+    font-size: 3.125rem;
+    color: white;
+    margin: 50px 0;
+}
+
+a {
+    text-decoration: underline;
+    color: aquamarine;
+    font-size: 1rem;
+}
+
