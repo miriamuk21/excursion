@@ -7,9 +7,23 @@ html, body {
 }
 
 .header {
+}
+
+h1 {
     font-size: 3.125rem;
     color: white;
-    margin: 50px 0;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 2.625rem;
+    color: white;
+    font-weight: normal;
+}
+
+p {
+    font-size: 1.3125rem;
+    color: gray;
 }
 
 a {
@@ -19,5 +33,14 @@ a {
 }
 
 .phone {
-    
+
+}
+
+.header, .link, .phone, .content, .image, .icon {
+    margin: 50px 0;
+}
+
+.copyright {
+    text-align: right;
+    justify-content: right;
 }
